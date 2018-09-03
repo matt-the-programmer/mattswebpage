@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+  background: black;
+}
+.Headerstyle{
+  background-color: grey;
+  width: 95%;
+  color: silver;
+  font: bolder;
+  font-size: 300%;
+  margin: 16px auto;
+  border: 5px solid silver;
+  box-shadow: 0 2px 3px #ccc;
+  padding: 16px;
+  text-align: center;
+  
+}
+.Intro{
+  text-align: left;
+  padding: 2px;
+  font: bold;
+  font-size: 150%;
+  color: silver;
+}
+.BioHeader{
+  color: black;
+  font-size: 100%;
+  text-align: left;
+  width: 40%;
+  margin: 5px;
+  border: 3px solid silver;
+  box-shadow: 0 2px 3px #ccc;
+  padding: 15px;
+  text-align: center;
+  background: gray; 
+
+}
+
+.page2btn{
+  color: gray;
+  position: relative;
+  left: 45%;
+  width: 10%;
+  
+}
+.page1btn{
+  color: silver;
+  position: relative;
+  left: 20%;
+  width: 10%;
+  
+
+}
+.page2{
+  background: black;
+  position: absolute;
+  width: 52%;
+  height: 85%;
+  left: 46%;
+  top: 33%;
+}
+.page1{
+  background: black;
+  position: absolute;
+  width: 52%;
+  height: 85%;
+  left: 46%;
+  top: 33%;
+}
+
+
